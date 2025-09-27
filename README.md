@@ -1,7 +1,7 @@
 # SvelteKit + Supabase Auth Template (with Inactivity Auto-Logout)
 
 
-**Developed by Keyshaun Ward**
+**Developed by KeyShaun Ward**
 
 Drop-in auth scaffolding for new SvelteKit projects:
 - Login and sign-up via Supabase
