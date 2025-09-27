@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@supabase/auth-helpers-sveltekit": "^0.13.0",
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.58.0",
+    "@sveltejs/kit": "^2.43.5",
+    "svelte": "^5.39.6",
+    "vite": "^7.1.7"
+  }
+}
